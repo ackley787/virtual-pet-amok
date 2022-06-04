@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pets_amok.VirtualPetTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-11T11:16:17" hostname="TANKIE" time="0.017">
+  <properties/>
+  <testcase name="shouldReturnVirtualPetHappiness()" classname="pets_amok.VirtualPetTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
